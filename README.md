@@ -1,8 +1,8 @@
-### Hey There 👋
+### Hey There, I'm Isaac! 👋
 
-Nice to meet you, I'm Isaac 😊
+I'm in my 3rd year of Computer Science + Cognitive Systems at UBC, in Vancouver, BC.
 
-I'm currently studying Cognitive Systems (focusing on Computer Science) at UBC, in Vancouver, BC.
+I'm currently working as a Build Engineer Intern @ Visier, and am an incoming SWE Intern @ Tesla.
 
 I'm passionate about combining tech and communities, creating solutions that better lives.
 
