@@ -1,9 +1,9 @@
 ### Hey There, I'm Isaac! 👋
 
 #### About me:
-- **School:** 4th year computer science + cognitive systems @ UBC
-- **Currently:** Full time student
-- **Future:** Incoming SWE Intern @ Astronomer
+- **School:** 5th year computer science + cognitive systems @ UBC
+- **Currently:** SWE Intern @ Astronomer
+- **Future:** Last year @ UBC!
 - **Previous:** Technical Writing Intern @ Livepeer, SWE Intern @ Tesla, Build Engineer @ Visier
 - **Interests:** Startups, web3, Venture Capital
 
