@@ -2,9 +2,9 @@
 
 #### About me:
 - **School:** 5th year computer science + cognitive systems @ UBC
-- **Currently:** SWE Intern @ Astronomer
-- **Future:** Last year @ UBC!
-- **Previous:** Technical Writing Intern @ Livepeer, SWE Intern @ Tesla, Build Engineer @ Visier
+- **Currently:** Last year @ UBC :(
+- **Future:** SWE @ Astronomer!
+- **Previous:** SWE Intern @ Astronomer, Technical Writing Intern @ Livepeer, SWE Intern @ Tesla, Build Engineer @ Visier
 - **Interests:** Startups, web3, Venture Capital
 
 Learn more about me at [isaacchung.com](https://isaacchung.com) or send me a message at isaackcchung8@gmail.com
